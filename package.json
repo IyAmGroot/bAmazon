@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bAmazonCustomer.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IyAmGroot/bAmazon.git"
+  },
+  "author": "finney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IyAmGroot/bAmazon/issues"
+  },
+  "homepage": "https://github.com/IyAmGroot/bAmazon#readme",
+  "dependencies": {
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0",
+    "cli-table": "^0.3.1"
+  }
+}
