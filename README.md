@@ -1,7 +1,5 @@
 # bAmazon Node.js /  mySQL app #
-This the bAmazon store app.  It is powered by two JavaScript files:
-* bAmazonCustomer.js - Customer interface
-* bamazonManager.js - Manager interface
+This the bAmazon store app.  
 
 ## Goal ##
 The goal of this exercise is to create an interface for a bAmazon customer to purchase an item from the store and for a bAmazon manager to be able to view the entire inventory, view items that are "low stock" which is where the quantity is less than 5 items, add to the quantity of a particular item, and to add additional items to the store.
