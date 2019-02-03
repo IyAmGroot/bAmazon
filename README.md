@@ -40,7 +40,8 @@ The cli-table node module was used to generate the table displayed in the store 
 Data is displayed in the command line and stored in the products table in the bamazon database.
 
 ## Video ##
-video demonstrations can be found by clicking the links below.
+Video demonstrations can be found by clicking the links below.
 
  [Click HERE for bAmazon customer demo video](https://drive.google.com/open?id=1VV3khu5Dq3e9CaKPMF7vwaqH-dzHV1Fr).
+ 
  [Click HERE for bAmazon manager demo video](https://drive.google.com/open?id=1iDrroFUD6gWZOfvRBMNDQTbV10HruKxW).
